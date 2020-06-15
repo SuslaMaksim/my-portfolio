@@ -7,8 +7,7 @@ import {makeStyles} from "@material-ui/styles";
 const useStyle  = makeStyles({
 
     particlesCanva: {
-        position: 'absolute'
-
+        position: 'absolute',
 
     }
 })
@@ -22,7 +21,7 @@ const Home = (props)=>{
             <Header/>
             <Particles
                 canvasClassName={classes.particlesCanva}
-                height='94%'
+                height='100%'
                 params={{
                     particles:{
                         number:{

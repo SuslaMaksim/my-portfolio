@@ -27,7 +27,7 @@ const useStyle = makeStyles(theme=> ({
     },
     subTitle: {
         color: 'tan',
-        marginBottom: '3rem'
+
     }
 }))
 
