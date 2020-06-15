@@ -81,7 +81,7 @@ export let portfolioData = [
     },
     {
         id: 3,
-        urlApplication: '/',
+        urlApplication: 'https://suslamaksim.github.io/my-portfolio/',
         picture: portfolio,
         projectName: 'My Site Portfolio with Material-UI',
         projectDescription: 'This is my Portfolio site, created with React and Material-UI',
