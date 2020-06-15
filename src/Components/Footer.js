@@ -31,12 +31,15 @@ const Footer = (props)=>{
             <BottomNavigationAction
                 style={{padding: 0}}
                 icon = {<Facebook/>}
+                href='https://www.facebook.com/profile.php?id=100004980878034'
+                target='_blank'
 
             />
             <BottomNavigationAction
                 style={{padding: 0}}
                 icon = {<LinkedIn/>}
-                href='https://pc.com.ua/search?q=9480'
+                href='https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%81%D1%83%D1%81%D0%BB%D0%B0-260a5a197/'
+                target='_blank'
 
             />
             <BottomNavigationAction

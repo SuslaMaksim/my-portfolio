@@ -46,7 +46,7 @@ const Header = (props)=>{
             </Typography>
             <br/>
             <Typography variant='h5' className={classes.subTitle}>
-                <Typed strings={['Web Development', 'React & Redux SPA','Material UA','ES6']}
+                <Typed strings={['Web Development', 'React Redux SPA','Material UA','ES6']}
                        typeSpeed={40}
                        backSpeed={30}
                        loop

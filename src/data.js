@@ -66,24 +66,25 @@ export let portfolioData = [
         id: 1,
         urlApplication: 'https://suslamaksim.github.io/Social-network/',
         picture: socialNetwork,
-        projectName: 'Social Network React SPA',
-        projectDescription: 'description text about socialNetwork',
+        projectName: 'Social Network React SPA ',
+        projectDescription: 'My React Application created with TypeScript, (redux,react-router-dom,react-redux,redux-form,redux-thunk) and ' +
+            'with (get,put,post,delete requests on technology axios) ',
         gitHubCode:'https://github.com/SuslaMaksim/Social-network'
     },
     {
         id: 2,
         urlApplication: 'https://suslamaksim.github.io/pokemon-desk/',
         picture: pokeDesk,
-        projectName: 'Simple React SPA PokeDesk',
-        projectDescription: 'description text about pokemon',
+        projectName: 'Simple React SPA PokeDesk with Material-UI',
+        projectDescription: 'This is simple React SPA, created on Material-UI with (redux,react-router-dom,react-redux,redux-thunk technologies)',
         gitHubCode:'https://github.com/SuslaMaksim/pokemon-desk'
     },
     {
         id: 3,
         urlApplication: '/',
         picture: portfolio,
-        projectName: 'My Site Portfolio ',
-        projectDescription: 'description text about my site portfolio',
+        projectName: 'My Site Portfolio with Material-UI',
+        projectDescription: 'This is my Portfolio site, created with React and Material-UI',
         gitHubCode:''
     },
 ]
