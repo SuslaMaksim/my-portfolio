@@ -85,6 +85,6 @@ export let portfolioData = [
         picture: portfolio,
         projectName: 'My Site Portfolio with Material-UI',
         projectDescription: 'This is my Portfolio site, created with React and Material-UI',
-        gitHubCode:''
+        gitHubCode:'https://github.com/SuslaMaksim/my-portfolio'
     },
 ]
