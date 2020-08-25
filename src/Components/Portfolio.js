@@ -6,7 +6,7 @@ import PortfolioItem from "./PortfolioItem";
 
 const useStyle = makeStyles({
     boxContainer: {
-        height: '100%',
+
         background: '#233'
     },
     cardContainer: {

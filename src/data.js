@@ -2,7 +2,8 @@ import React from "react";
 import {Home,AssignmentInd,Apps,ContactMail} from "@material-ui/icons";
 import socialNetwork from './images/sohialNetvork.jpg';
 import pokeDesk from './images/poceDesk.jpg';
-import portfolio from './images/portfolioPicture.jpg'
+import portfolio from './images/portfolioPicture.jpg';
+import testTask from './images/taskTest.jpg'
 
 
 export let items = [
@@ -73,6 +74,15 @@ export let portfolioData = [
     },
     {
         id: 2,
+        urlApplication: 'https://suslamaksim.github.io/TestTask/',
+        picture: testTask,
+        projectName: 'Response React SPA  ',
+        projectDescription: 'Response React Application created with  (redux,react-redux,redux-form,redux-thunk,materialUA) and ' +
+            'with requests on technology axios ',
+        gitHubCode:'https://github.com/SuslaMaksim/TestTask'
+    },
+    {
+        id: 3,
         urlApplication: 'https://suslamaksim.github.io/pokemon-desk/',
         picture: pokeDesk,
         projectName: 'Simple React SPA PokeDesk with Material-UI',
@@ -80,7 +90,7 @@ export let portfolioData = [
         gitHubCode:'https://github.com/SuslaMaksim/pokemon-desk'
     },
     {
-        id: 3,
+        id: 4,
         urlApplication: 'https://suslamaksim.github.io/my-portfolio/',
         picture: portfolio,
         projectName: 'My Site Portfolio with Material-UI',
