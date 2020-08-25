@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.46463fb2.chunk.css",
+    "main.css": "/my-portfolio/static/css/main.1f4e6c13.chunk.css",
     "main.js": "/my-portfolio/static/js/main.a120f921.chunk.js",
     "main.js.map": "/my-portfolio/static/js/main.a120f921.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9efc66b9.js",
@@ -8,10 +8,11 @@
     "static/js/2.d8c86c11.chunk.js": "/my-portfolio/static/js/2.d8c86c11.chunk.js",
     "static/js/2.d8c86c11.chunk.js.map": "/my-portfolio/static/js/2.d8c86c11.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.03bdd53a92c5771ab75c2b120bb60972.js": "/my-portfolio/precache-manifest.03bdd53a92c5771ab75c2b120bb60972.js",
+    "precache-manifest.fc36896c2bf98e5a84efca7fa9139a54.js": "/my-portfolio/precache-manifest.fc36896c2bf98e5a84efca7fa9139a54.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.46463fb2.chunk.css.map": "/my-portfolio/static/css/main.46463fb2.chunk.css.map",
+    "static/css/main.1f4e6c13.chunk.css.map": "/my-portfolio/static/css/main.1f4e6c13.chunk.css.map",
     "static/js/2.d8c86c11.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.d8c86c11.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-portfolio/static/media/coffee-apple.2dd213aa.jpg",
     "static/media/poceDesk.jpg": "/my-portfolio/static/media/poceDesk.06795066.jpg",
     "static/media/portfolioPicture.jpg": "/my-portfolio/static/media/portfolioPicture.e16dca87.jpg",
     "static/media/sohialNetvork.jpg": "/my-portfolio/static/media/sohialNetvork.7f5261d5.jpg",
@@ -21,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.9efc66b9.js",
     "static/js/2.d8c86c11.chunk.js",
-    "static/css/main.46463fb2.chunk.css",
+    "static/css/main.1f4e6c13.chunk.css",
     "static/js/main.a120f921.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc2006a299a4d03b25d0fdaccea31b65",
+    "revision": "669af7d4cd276c433cc5d560a2532c4b",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "118a62d67b39516dab3d",
-    "url": "/my-portfolio/static/css/main.46463fb2.chunk.css"
+    "revision": "0c4cfa6a74f1380c9f6b",
+    "url": "/my-portfolio/static/css/main.1f4e6c13.chunk.css"
   },
   {
     "revision": "de53528c7454b209fd80",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/js/2.d8c86c11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "118a62d67b39516dab3d",
+    "revision": "0c4cfa6a74f1380c9f6b",
     "url": "/my-portfolio/static/js/main.a120f921.chunk.js"
   },
   {
     "revision": "feb14810df33d645b05c",
     "url": "/my-portfolio/static/js/runtime-main.9efc66b9.js"
+  },
+  {
+    "revision": "2dd213aa54b22c3bca0c62f570d1512a",
+    "url": "/my-portfolio/static/media/coffee-apple.2dd213aa.jpg"
   },
   {
     "revision": "06795066e8e2e01186d7087289ad6100",
