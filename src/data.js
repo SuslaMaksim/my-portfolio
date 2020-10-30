@@ -3,7 +3,8 @@ import {Home,AssignmentInd,Apps,ContactMail} from "@material-ui/icons";
 import socialNetwork from './images/sohialNetvork.jpg';
 import pokeDesk from './images/poceDesk.jpg';
 import portfolio from './images/portfolioPicture.jpg';
-import testTask from './images/taskTest.jpg'
+import testTask from './images/taskTest.jpg';
+import chat from './images/chat.jpg'
 
 
 export let items = [
@@ -60,9 +61,24 @@ export let resumeData = [
         skills: 'Material-UI',
         bodyText: 'Creating some response React SPA '
     },
+      {
+        id: 5,
+        year: '2020',
+        language: 'Node  Express & Socket.io Socket.io-client',
+        skills: 'Express & Socket.io Socket.io-client',
+        bodyText: 'Creating some Simple Full-stack application with Node.js and React,use Socket.io and deployed it '
+    },
 ]
 
 export let portfolioData = [
+   {
+        id: 5,
+        urlApplication: 'https://suslamaksim.github.io/chat-socket-io/',
+        picture: chat,
+        projectName: 'Chat',
+        projectDescription: 'I created the simple Full-stack application with React and Node.js, with using socket.io ',
+        gitHubCode:'https://github.com/SuslaMaksim/chat-socket-io'
+    },
     {
         id: 1,
         urlApplication: 'https://suslamaksim.github.io/Social-network/',
@@ -96,5 +112,6 @@ export let portfolioData = [
         projectName: 'My Site Portfolio with Material-UI',
         projectDescription: 'This is my Portfolio site, created with React and Material-UI',
         gitHubCode:'https://github.com/SuslaMaksim/my-portfolio'
-    },
+    }
+  
 ]
