@@ -80,15 +80,6 @@ export let portfolioData = [
         gitHubCode:'https://github.com/SuslaMaksim/chat-socket-io'
     },
     {
-        id: 1,
-        urlApplication: 'https://suslamaksim.github.io/Social-network/',
-        picture: socialNetwork,
-        projectName: 'Social Network React SPA ',
-        projectDescription: 'My React Application created with TypeScript, (redux,react-router-dom,react-redux,redux-form,redux-thunk) and ' +
-            'with (get,put,post,delete requests on technology axios) ',
-        gitHubCode:'https://github.com/SuslaMaksim/Social-network'
-    },
-    {
         id: 2,
         urlApplication: 'https://suslamaksim.github.io/TestTask/',
         picture: testTask,
@@ -98,6 +89,23 @@ export let portfolioData = [
         gitHubCode:'https://github.com/SuslaMaksim/TestTask'
     },
     {
+        id: 4,
+        urlApplication: 'https://suslamaksim.github.io/my-portfolio/',
+        picture: portfolio,
+        projectName: 'My Site Portfolio with Material-UI',
+        projectDescription: 'This is my Portfolio site, created with React and Material-UI',
+        gitHubCode:'https://github.com/SuslaMaksim/my-portfolio'
+    },
+    {
+        id: 1,
+        urlApplication: 'https://suslamaksim.github.io/Social-network/',
+        picture: socialNetwork,
+        projectName: 'Social Network React SPA ',
+        projectDescription: 'My React Application created with TypeScript, (redux,react-router-dom,react-redux,redux-form,redux-thunk) and ' +
+            'with (get,put,post,delete requests on technology axios) ',
+        gitHubCode:'https://github.com/SuslaMaksim/Social-network'
+    },
+    {
         id: 3,
         urlApplication: 'https://suslamaksim.github.io/pokemon-desk/',
         picture: pokeDesk,
@@ -105,13 +113,6 @@ export let portfolioData = [
         projectDescription: 'This is simple React SPA, created on Material-UI with (redux,react-router-dom,react-redux,redux-thunk technologies)',
         gitHubCode:'https://github.com/SuslaMaksim/pokemon-desk'
     },
-    {
-        id: 4,
-        urlApplication: 'https://suslamaksim.github.io/my-portfolio/',
-        picture: portfolio,
-        projectName: 'My Site Portfolio with Material-UI',
-        projectDescription: 'This is my Portfolio site, created with React and Material-UI',
-        gitHubCode:'https://github.com/SuslaMaksim/my-portfolio'
-    }
+
   
 ]
