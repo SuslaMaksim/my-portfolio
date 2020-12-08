@@ -4,7 +4,9 @@ import socialNetwork from './images/sohialNetvork.jpg';
 import pokeDesk from './images/poceDesk.jpg';
 import portfolio from './images/portfolioPicture.jpg';
 import testTask from './images/taskTest.jpg';
-import chat from './images/chat.jpg'
+import chat from './images/chat.jpg';
+import musicTask from './images/music-task';
+import weatherTask  from './images/weather-tasck';
 
 
 export let items = [
@@ -71,6 +73,22 @@ export let resumeData = [
 ]
 
 export let portfolioData = [
+    {
+        id: 7,
+        urlApplication: 'https://suslamaksim.github.io/weather/',
+        picture: weatherTask,
+        projectName: 'weather in your city ',
+        projectDescription: 'I created the simple  application with React (redux,react-redux,redux-form,redux-thunk,materialUA) ',
+        gitHubCode:'https://github.com/SuslaMaksim/weather'
+    },
+   {
+        id: 6,
+        urlApplication: 'https://suslamaksim.github.io/music-test/',
+        picture: musicTask,
+        projectName: 'Get Music on API',
+        projectDescription: 'I created the simple  application with React (redux,react-redux,redux-form,redux-thunk,semanticUA) ',
+        gitHubCode:'https://github.com/SuslaMaksim/music-test'
+    },
    {
         id: 5,
         urlApplication: 'https://suslamaksim.github.io/chat-socket-io/',
