@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.1f4e6c13.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.ffeb72bd.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.ffeb72bd.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.6ee3488a.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.6ee3488a.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.9efc66b9.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9efc66b9.js.map",
-    "static/js/2.b8ad8284.chunk.js": "/my-portfolio/static/js/2.b8ad8284.chunk.js",
-    "static/js/2.b8ad8284.chunk.js.map": "/my-portfolio/static/js/2.b8ad8284.chunk.js.map",
+    "static/js/2.3e16a9e5.chunk.js": "/my-portfolio/static/js/2.3e16a9e5.chunk.js",
+    "static/js/2.3e16a9e5.chunk.js.map": "/my-portfolio/static/js/2.3e16a9e5.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.33dc19f696beadee23c104a80ed3ea6e.js": "/my-portfolio/precache-manifest.33dc19f696beadee23c104a80ed3ea6e.js",
+    "precache-manifest.6e3d242af4f593bc412ae77964e8f562.js": "/my-portfolio/precache-manifest.6e3d242af4f593bc412ae77964e8f562.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
     "static/css/main.1f4e6c13.chunk.css.map": "/my-portfolio/static/css/main.1f4e6c13.chunk.css.map",
-    "static/js/2.b8ad8284.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.b8ad8284.chunk.js.LICENSE.txt",
+    "static/js/2.3e16a9e5.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.3e16a9e5.chunk.js.LICENSE.txt",
     "static/media/chat.jpg": "/my-portfolio/static/media/chat.dc9e0911.jpg",
     "static/media/App.css": "/my-portfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/musicTask.jpg": "/my-portfolio/static/media/musicTask.f023e3a2.jpg",
     "static/media/poceDesk.jpg": "/my-portfolio/static/media/poceDesk.06795066.jpg",
     "static/media/portfolioPicture.jpg": "/my-portfolio/static/media/portfolioPicture.e16dca87.jpg",
     "static/media/sohialNetvork.jpg": "/my-portfolio/static/media/sohialNetvork.7f5261d5.jpg",
     "static/media/susla.avatar.jpg": "/my-portfolio/static/media/susla.avatar.22cc33e4.jpg",
-    "static/media/taskTest.jpg": "/my-portfolio/static/media/taskTest.d6253df1.jpg"
+    "static/media/taskTest.jpg": "/my-portfolio/static/media/taskTest.d6253df1.jpg",
+    "static/media/weatherTask.jpg": "/my-portfolio/static/media/weatherTask.dd3ac150.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9efc66b9.js",
-    "static/js/2.b8ad8284.chunk.js",
+    "static/js/2.3e16a9e5.chunk.js",
     "static/css/main.1f4e6c13.chunk.css",
-    "static/js/main.ffeb72bd.chunk.js"
+    "static/js/main.6ee3488a.chunk.js"
   ]
 }
